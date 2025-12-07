@@ -12,9 +12,9 @@ Full-stack web uygulamaları ve otomasyon sistemleri geliştiriyorum. Staj deney
 
 ### Teknolojiler
 
-**Backend:** Java · Spring Boot · Python  
-**Frontend:** React · JavaScript · HTML/CSS  
-**Veritabanı:** PostgreSQL · MySQL  
+**Backend:** Java · Spring Boot 
+**Frontend:** React · JavaScript · HTML/CSS
+**Veritabanı:** PostgreSQL · MySQL
 **Araçlar:** Git · IntelliJ IDEA · VS Code
 
 ---
