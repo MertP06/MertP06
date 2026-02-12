@@ -26,7 +26,6 @@ Full-stack web uygulamaları ve otomasyon sistemleri geliştiriyorum. Staj deney
 | [Triage Otomasyon Sistemi](https://github.com/MertP06/Triage-Otomasyon-Sistemi) | Hastane acil servis triaj yönetimi | Java, Spring Boot, React |
 | [Call Center](https://github.com/MertP06/Call-Center) | Staj projesi - çağrı merkezi uygulaması | Java |
 | [Deep Dive](https://github.com/MertP06/Deep-Dive) | Mobil oyun | Java |
-| [YSA Elma Kalitesi](https://github.com/MertP06/YSA-Elma-Kalitesi) | Yapay sinir ağları ile kalite tahmini | Python |
 
 ---
 
