@@ -1,6 +1,6 @@
 # Mert Polat
 
-**Computer Engineer** · Konya Technical University (GPA: 2.84 / 4.00)  
+**Computer Engineer**
 Focusing on Full-Stack Web Development, modern software architectures, and clean code.
 
 Portfolio: [mertp06.github.io/Portfolio](https://mertp06.github.io/Portfolio/)
